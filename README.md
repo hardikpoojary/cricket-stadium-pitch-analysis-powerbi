@@ -148,15 +148,15 @@ The repository contains:
 
 ### Page 1 – Cricket Stadium & Pitch Analysis
 
-![Dashboard Page 1](dashboard-page-1..png)
+![Dashboard Page 1](screenshots/dashboard-page-1..png)
 
 ### Page 2 – Pitch & Stadium Analysis
 
-![Dashboard Page 2](dashboard-page-2.png)
+![Dashboard Page 2](screenshots/dashboard-page-2.png)
 
 ### Page 3 – Match Details
 
-![Dashboard Page 3](dashboard-page-3.png)
+![Dashboard Page 3](screenshots/dashboard-page-3.png)
 ---
 
 ## ⭐ Project
