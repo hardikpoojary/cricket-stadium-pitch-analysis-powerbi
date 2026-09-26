@@ -197,7 +197,9 @@ The repository contains:
 - Dashboard Design
 - Interactive Filtering
 - Business/Data Analysis
-PROJECT STRUCTURE
+
+ PROJECT STRUCTURE
+
 cricket-stadium-pitch-analysis-powerbi
 │
 ├── README.md
