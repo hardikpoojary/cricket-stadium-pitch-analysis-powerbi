@@ -148,7 +148,7 @@ The repository contains:
 
 ### Page 1 – Cricket Stadium & Pitch Analysis
 
-![Dashboard Page 1](dashboard-page-1.png)
+![Dashboard Page 1](dashboard-page-1..png)
 
 ### Page 2 – Pitch & Stadium Analysis
 
