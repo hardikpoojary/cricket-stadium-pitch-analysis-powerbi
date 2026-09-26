@@ -160,5 +160,42 @@ The repository contains:
 ---
 
 ## ⭐ Project
+---
+
+## 🔍 Key Insights
+
+- The dashboard provides an overview of cricket match performance across different venues.
+- Total runs and average runs can be compared across venues.
+- Toss decisions can be analyzed against match outcomes.
+- Run-scoring patterns can be studied across overs and match phases.
+- Batting and bowling team performances can be compared.
+- Wicket types and individual player performances can be explored.
+- Match-level and ball-by-ball details are available for deeper analysis.
+
+---
+
+## 📊 Dashboard Features
+
+- Interactive Venue and Season filters
+- Match-level filtering
+- Ball-by-ball analysis
+- Venue-wise run analysis
+- Batting and bowling analysis
+- Toss and match-result analysis
+- Wicket analysis
+- Interactive Power BI visuals
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX Measures
+- Data Visualization
+- Dashboard Design
+- Interactive Filtering
+- Business/Data Analysis
 
 This project was created as a Power BI data analytics project to demonstrate data visualization, dashboard design, data modeling, and DAX-based analysis.
