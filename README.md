@@ -1,2 +1,150 @@
-# cricket-stadium-pitch-analysis-powerbi
-Power BI dashboard for Cricket Stadium &amp; Pitch Analysis
+# 🏏 Cricket Stadium & Pitch Analysis – Power BI
+
+## 📊 Project Overview
+
+This project is an interactive Power BI dashboard designed to analyze cricket matches, stadium performance, pitch-related match patterns, batting, bowling, wickets, runs, toss decisions, and match results.
+
+The dashboard helps understand how different venues and match situations affect cricket performance.
+
+---
+
+## 🎯 Objectives
+
+- Analyze total matches and total runs
+- Analyze wickets and average runs per match
+- Compare performance across different venues
+- Analyze runs by over and match phase
+- Study toss decisions and match outcomes
+- Analyze batting and bowling team performance
+- Analyze wicket types
+- Provide detailed match and ball-by-ball information
+
+---
+
+## 📁 Dataset
+
+The project uses cricket match and ball-by-ball delivery data.
+
+The dataset contains information such as:
+
+- Match ID
+- Season
+- Date
+- Venue
+- Toss Winner
+- Toss Decision
+- Match Winner
+- Result Type
+- Batting Team
+- Bowling Team
+- Batter
+- Bowler
+- Over
+- Ball
+- Batsman Runs
+- Total Runs
+- Dismissal Type
+- Match Phase
+
+---
+
+## 📈 Dashboard Pages
+
+### Page 1 – Cricket Stadium & Pitch Analysis
+
+The first page provides an overall summary of the cricket dataset.
+
+**Visuals include:**
+- Total Matches
+- Total Runs
+- Total Wickets
+- Average Runs per Match
+- Total Runs by Venue
+- Average Runs by Venue
+- Toss Decision Distribution
+- Toss Decision vs Match Outcome
+- Runs by Phase
+
+---
+
+### Page 2 – Pitch & Stadium Analysis
+
+This page focuses on venue and match-performance analysis.
+
+**Visuals include:**
+- Venue Slicer
+- Season Slicer
+- Runs by Over
+- Runs by Phase
+- Wicket Types
+- Runs by Batting Team
+- Runs by Bowling Team
+
+---
+
+### Page 3 – Match Details
+
+This page provides detailed match-level and ball-by-ball analysis.
+
+**Visuals include:**
+- Match ID Slicer
+- Match Information Table
+- Ball-by-Ball Details Table
+- Runs by Batter
+- Wickets by Bowler
+- Match Result Summary
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Excel / CSV Dataset
+- GitHub
+
+---
+
+## 📌 Key Analysis Areas
+
+### 🏟️ Stadium Analysis
+Comparison of total and average runs across different cricket venues.
+
+### 🏏 Batting Analysis
+Analysis of runs scored by batters and batting teams.
+
+### 🎯 Bowling Analysis
+Analysis of wickets taken by bowlers and bowling teams.
+
+### 🪙 Toss Analysis
+Analysis of toss decisions and their relationship with match outcomes.
+
+### 📊 Match Phase Analysis
+Analysis of scoring patterns across different phases of the match.
+
+### 📋 Match Details
+Detailed match-level and ball-by-ball information.
+
+---
+
+## 📂 Project Files
+
+The repository contains:
+
+- Power BI Dashboard
+- Dataset
+- Project Documentation
+- Screenshots
+
+---
+
+## 👩‍💻 Author
+
+**Hardik Poojary**
+
+---
+
+## ⭐ Project
+
+This project was created as a Power BI data analytics project to demonstrate data visualization, dashboard design, data modeling, and DAX-based analysis.
