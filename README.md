@@ -197,5 +197,17 @@ The repository contains:
 - Dashboard Design
 - Interactive Filtering
 - Business/Data Analysis
-
+PROJECT STRUCTURE
+cricket-stadium-pitch-analysis-powerbi
+│
+├── README.md
+├── Cricket_Stadium_Pitch_Analysis.pbix
+├── Cricket_Stadium_Pitch_Analysis_Data.xlsx
+│
+└── screenshots
+    ├── dashboard-page-1.png
+    ├── dashboard-page-2.png
+    └── dashboard-page-3.png
 This project was created as a Power BI data analytics project to demonstrate data visualization, dashboard design, data modeling, and DAX-based analysis.
+
+p
